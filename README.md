@@ -19,4 +19,18 @@ A web application built using **Python Django** for the backend (hosted on Rende
 - Django  
 - Git  
 
+## 📸 Screenshots  
+
+### 🔹 Homepage 
+
+![Homepage](https://github.com/Navsajan/siem-ecommerce-demo/blob/main/Screenshot%20From%202025-01-30%2013-28-46.png?raw=true
+)  
+
+### 🔹 Features Page  
+![Features](https://github.com/Navsajan/siem-ecommerce-demo/blob/main/Screenshot%20From%202025-01-30%2013-28-56.png?raw=true)
+  
+### 🔹 SIEM DASH  
+![SIEM Dashboard](https://github.com/Navsajan/siem-ecommerce-demo/blob/main/Screenshot%20From%202025-01-30%2013-29-05.png?raw=true)
+
+
 
